@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MBroid Business Card</string>
+    <string name="www">www.m-broid.co.uk</string>
+    <string name="email">info@m-broid.co.uk</string>
+    <string name="body1">Embroidery / Printing services for everyone</string>
+    <string name="body2">Corporate Wear</string>
+    <string name="body3">Uniforms</string>
+    <string name="body4">Personalised Gifts</string>
+    <string name="body5">and more&#8230;</string>
+    <string name="footer">Hours: 9&#8211;5 Mon-Fri</string>
+</resources>
